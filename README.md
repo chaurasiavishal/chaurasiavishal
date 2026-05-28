@@ -1,27 +1,37 @@
-<h1 align="center">Hi, I'm Vishal Chaurasia 👋</h1>
-<h3 align="center">DevOps Lead Engineer · Cloud Infrastructure · Platform Engineering</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Chaurasia&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=DevOps%20Lead%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Platform%20Engineering&descAlignY=58&descSize=18"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+reliable%2C+scalable+infrastructure+at+scale;Kubernetes+%26+Docker+specialist;Infrastructure+as+Code+advocate;AWS+%26+GCP+cloud+expert;CI%2FCD+pipeline+architect" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaurasiavishal&label=Profile+views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/chaurasiavishal?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
 </p>
 
 ---
 
-### About Me
+### 🧑‍💻 About Me
 
-- 🔭 Working as a **DevOps Lead Engineer** — building reliable, scalable infrastructure at scale
-- ☁️ Specialized in **AWS & GCP** cloud platforms
-- 🐳 Deep expertise in **Kubernetes (EKS, GKE)**, **Docker**, and the broader container ecosystem
-- 🏗️ Building production-grade **Infrastructure as Code** with Terraform, CloudFormation & Serverless
-- ⚙️ Designing and maintaining **CI/CD pipelines** for fast, safe delivery
-- 📊 Strong advocate for observability — **Prometheus**, **Grafana**, **Datadog**, **New Relic** and more
-- 📫 Reach me: **vishalkumar@iamops.io**
+```yaml
+name: Vishal Chaurasia
+role: DevOps Lead Engineer
+company: iamops.io
+location: India
+focus:
+  - Cloud Infrastructure (AWS, GCP)
+  - Container Orchestration (Kubernetes, EKS, GKE)
+  - Infrastructure as Code (Terraform, CloudFormation)
+  - Observability & Monitoring
+  - CI/CD & GitOps
+contact: vishalkumar@iamops.io
+```
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### ☁️ Cloud Platforms
+#### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
@@ -58,12 +68,12 @@
 ![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-#### 💻 Scripting & Languages
+#### 💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-#### 🔧 Tools & Platforms
+#### 🔧 Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -71,23 +81,20 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaurasiavishal&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaurasiavishal&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaurasiavishal&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chaurasiavishal&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaurasiavishal&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=chaurasiavishal&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect
 
-[![Email](https://img.shields.io/badge/Email-vishalkumar%40iamops.io-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalkumar@iamops.io)
+[![Email](https://img.shields.io/badge/vishalkumar%40iamops.io-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalkumar@iamops.io)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
