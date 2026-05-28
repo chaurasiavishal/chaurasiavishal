@@ -92,16 +92,6 @@ contact: vishalchaurasia123987@gmail.com
 
 ---
 
-### 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaurasiavishal/chaurasiavishal/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaurasiavishal/chaurasiavishal/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/chaurasiavishal/chaurasiavishal/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
----
-
 ### 📈 GitHub Activity
 
 <p align="center">
