@@ -107,11 +107,11 @@ contact: vishalchaurasia123987@gmail.com
 ### ✍️ Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [We Cut AWS Fargate Startup Time by 50% Using Seekable OCI &lpar;SOCI&rpar;](https://erroratnight.medium.com/we-cut-aws-fargate-startup-time-by-50-using-seekable-oci-soci-767ded66a25a?source=rss-ac4b00df26a3------2)
 - [How We Reduced GKE Costs by 33% Through Smarter Scheduling and Resource Governance: A DevOps Case…](https://erroratnight.medium.com/how-we-reduced-gke-costs-by-33-through-smarter-scheduling-and-resource-governance-a-devops-case-08e6358367ce?source=rss-ac4b00df26a3------2)
 - [Kafka Storage Near 100%? How We Increased Production Kafka PVC Size Without Data Loss or Downtime](https://erroratnight.medium.com/kafka-storage-near-100-how-we-increased-production-kafka-pvc-size-without-data-loss-or-downtime-b751f1bc148c?source=rss-ac4b00df26a3------2)
 - [Setting Up Jenkins on AWS EC2 &lpar;Beginner Friendly&rpar;](https://erroratnight.medium.com/setting-up-jenkins-on-aws-ec2-beginner-friendly-ddba8d0c4629?source=rss-ac4b00df26a3------2)
 - [Secure Snowflake Service-Based Authentication Using RSA Key Pair](https://erroratnight.medium.com/secure-snowflake-service-based-authentication-using-rsa-key-pair-b667f384a8c2?source=rss-ac4b00df26a3------2)
-- [Understanding Feature Compatibility Version &lpar;FCV&rpar; in MongoDB Atlas](https://erroratnight.medium.com/understanding-feature-compatibility-version-fcv-in-mongodb-atlas-34d395049fb9?source=rss-ac4b00df26a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [More articles on Medium →](https://medium.com/@erroratnight)
